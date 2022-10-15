@@ -1,0 +1,6 @@
+.idea/
+__pycache__/
+.envb/
+Scripts/
+Lib/
+pyvenv.cfg
